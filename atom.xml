@@ -1,15 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>ReinventingUnix (Poorly)</title>
+  <title>(in)visibles</title>
   <link href="http://towanda.github.com/atom.xml" rel="self"/>
   <link href="http://towanda.github.com/"/>
-  <updated>2011-09-22T13:31:46+02:00</updated>
+  <updated>2011-10-22T17:26:40+02:00</updated>
   <id>http://towanda.github.com/</id>
   <author>
     <name>Manu Campos</name>
     
   </author>
 
+  
+  <entry>
+    <title>Matt Mullenweg: State of the Word 2011</title>
+    <link href="http://towanda.github.com/2011/08/20/matt-mullenweg-state-of-the-word-2011/"/>
+    <updated>2011-08-20T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2011/08/20/matt-mullenweg-state-of-the-word-2011</id>
+    <content type="html">&lt;p&gt;Una interesante charla de Matt Mullenweg sobre Wordpress, su historia, su ecosistema y su futuro. Aunque no habla de la parte técnica, cuenta muchas cosas interesantes sobre la genteque usa wordpress, como por ejemplo cuanto cobra por hora la gente que se gana la vida con wp, que es lo que mas le gusta a la gente (facilidad de uso), lo que menos (plugins suck), o que usos le dan (blog, cms, etc&amp;#8230;)&lt;/p&gt;
+
+&lt;p&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;http://s0.videopress.com/player.swf?v=1.03&quot; width=&quot;400&quot; height=&quot;224&quot; wmode=&quot;direct&quot; seamlesstabbing=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; overstretch=&quot;true&quot; flashvars=&quot;guid=9ujY295r&amp;amp;isDynamicSeeking=true&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Organizational Charts</title>
+    <link href="http://towanda.github.com/2011/06/30/organizational-charts/"/>
+    <updated>2011-06-30T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2011/06/30/organizational-charts</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://invisibles.cc/wp-content/uploads/2011/06/2011.06.27_organizational_charts1.png&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2011/06/2011.06.27_organizational_charts1-300x292.png&quot; title=&quot;2011.06.27_organizational_charts&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;(via &lt;a href=&quot;http://www.bonkersworld.net/2011/06/27/organizational-charts/&quot;&gt;bonkers world&lt;/a&gt;, encontrado gracias a &lt;a href=&quot;http://valakirka.tumblr.com/post/7081346545/organization-via-bonkers-world&quot;&gt;valarkika&lt;/a&gt;)&amp;nbsp;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The only people for me</title>
+    <link href="http://towanda.github.com/2011/06/22/the-only-people-for-me/"/>
+    <updated>2011-06-22T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2011/06/22/the-only-people-for-me</id>
+    <content type="html">&lt;!&#8211; p.p1 {margin: 0.0px 0.0px 11.0px 0.0px; font: 14.0px Times} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Arial} &#8211;&gt;
+
+
+&lt;blockquote&gt;“The only people for me are the mad ones,the ones who are mad to live,mad to talk,mad to be saved,desirous of everything at the same time,the ones who never yawn or say a commonplace thing,but burn,burn,burn,like fabulous yellow roman candles exploding like spiders across the starsand in the middle you see the blue centerlight popand everybody goes “Awww!”&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;em&gt;~Jack Kerouac&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Passionate Programmer</title>
+    <link href="http://towanda.github.com/2011/06/18/the-passionate-programmer/"/>
+    <updated>2011-06-18T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2011/06/18/the-passionate-programmer</id>
+    <content type="html">&lt;blockquote&gt;Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change course when you’ve made mistakes&amp;#8230;&lt;/blockquote&gt;
+
+
+&lt;p&gt;&amp;nbsp;&lt;blockquote&gt;It might be a technology or business domain that gets you excited. Or, on the other hand, it might be a specific technology or business domain that drags you down. Or a type of organization. Maybe you’re meant for small teams or big teams. Or rigid processes. Or agile processes. Whatever the mix, take some time to find yours. You can fake it for a while, but a lack of passion will catch up with you and your work.&amp;nbsp;&lt;/blockquote&gt;Del &lt;a href=&quot;http://pragprog.com/titles/cfcar2/the-passionate-programmer&quot; title=&quot;The passionate programmer&quot;&gt;Passionate Programmer&lt;/a&gt;, uno lo de los libros indispensables si te gusta tu profesión.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Me mudo. </title>
+    <link href="http://towanda.github.com/2011/05/22/me-mudo/"/>
+    <updated>2011-05-22T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2011/05/22/me-mudo</id>
+    <content type="html">&lt;p&gt;Si todo sale bien, dentro de dos semanas estaremos en &lt;a href=&quot;http://es.wikipedia.org/wiki/San_Adri%C3%A1n_de_Bes%C3%B3s&quot;&gt;Sant Adrià de Besòs&lt;/a&gt;, como campamento temporal hasta que finalmente nos mudemos a Badalona (que esta muy cerquita):&lt;a href=&quot;http://invisibles.cc/wp-content/uploads/2011/05/badalona.jpg&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2011/05/badalona.jpg&quot; title=&quot;Badalona&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;Estoy un poco nervioso y nostalgico (voy a echar mucho de menos Lavapies), pero muy ilusionado. Me encanta Barcelona, y después de haber vivido mucho tiempo en Madrid me fascina la idea de vivir al lado del mar.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Hay belleza en la simplicidad</title>
+    <link href="http://towanda.github.com/2011/03/09/hay-belleza-en-la-simplicidad/"/>
+    <updated>2011-03-09T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2011/03/09/hay-belleza-en-la-simplicidad</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://invisibles.cc/wp-content/uploads/2011/03/tinywings.jpg&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2011/03/tinywings.jpg&quot; title=&quot;tinywings&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;This is from the help pages to [Tiny Wings](http://itunes.apple.com/us/app/tiny-wings/id417817520?mt=8) (iTunes Store link) by Andreas Illiger.That’s all you need to know, right there:- _Goal:_ flight.
+- _Conflict:_ this will be difficult because your wings are tiny.
+- _Game mechanic:_ perhaps you can use the many beautiful hills to help.
+And then there’s an illustration to piece all the pieces together and explain what you’re going to do.The whole game is explained in two sentences; two sentences that manage to contain pathos, hope, a goal, and hints at the gameplay mechanic for achieving that goal.&lt;/blockquote&gt;
+
+
+&lt;p&gt;Visto &lt;a href=&quot;http://infovore.org/archives/2011/03/03/my-favourite-piece-of-games-writing-this-week/&quot;&gt;aqui&lt;/a&gt;, via &lt;a href=&quot;http://logicola.net/&quot;&gt;logicola&lt;/a&gt;&lt;blockquote&gt;&amp;nbsp;&lt;/blockquote&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Jugar en el suelo</title>
+    <link href="http://towanda.github.com/2011/02/26/jugar-en-el-suelo/"/>
+    <updated>2011-02-26T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2011/02/26/jugar-en-el-suelo</id>
+    <content type="html">&lt;p&gt;Un impresionante juego en el que construyes el circuito con las cosas que tengas por casa:&lt;iframe title=&quot;YouTube video player&quot; width=&quot;560&quot; height=&quot;349&quot; src=&quot;http://www.youtube.com/embed/oxjGRL7ZiLE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;Visto en el &lt;a href=&quot;http://unvlog.com/punio/&quot;&gt;unvlog de punio&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>why work doesn&#8217;t happen at work</title>
+    <link href="http://towanda.github.com/2011/02/04/why-work-doesn%25c2%25b4t-happen-at-work/"/>
+    <updated>2011-02-04T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2011/02/04/why-work-doesn%c2%b4t-happen-at-work</id>
+    <content type="html">&lt;p&gt;Jason Fried, co-fundador de &lt;a href=&quot;http://37signals.com/&quot;&gt;37Signals&lt;/a&gt; explica por que la oficina no es un buen lugar para trabajar.&lt;!&#8211;copy and paste&#8211;&gt;&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot; /&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/dynamic/JasonFried_2010X-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JasonFried-2010X.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1014&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=jason_fried_why_work_doesn_t_happen_at_work;year=2010;theme=a_taste_of_tedx;theme=not_business_as_usual;theme=new_on_ted_com;event=TEDxMidwest;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgcolor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; flashvars=&quot;vu=http://video.ted.com/talks/dynamic/JasonFried_2010X-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JasonFried-2010X.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1014&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=jason_fried_why_work_doesn_t_happen_at_work;year=2010;theme=a_taste_of_tedx;theme=not_business_as_usual;theme=new_on_ted_com;event=TEDxMidwest;&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>ack y emacs. </title>
+    <link href="http://towanda.github.com/2011/02/02/ack-y-emacs/"/>
+    <updated>2011-02-02T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2011/02/02/ack-y-emacs</id>
+    <content type="html">&lt;blockquote&gt;Emacs es un gran sistema operativo al que le falta un buen editor.Anónimo.&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://invisibles.cc/wp-content/uploads/2011/02/emacs_screenshot.png&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2011/02/emacs_screenshot.png&quot; title=&quot;emacs_screenshot&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;Llevaba tiempo echando de menos en emacs algo que la mayoria de los grandes y pesados IDES tiene: busqueda integrada. Que cuando busques por un termino, te muestre los resultados y estos sean linkables y te lleven al fichero y la linea donde esta lo que buscas.&lt;!&#8211;more&#8211;&gt;Antes usaba &lt;a href=&quot;http://betterthangrep.com/&quot; title=&quot;ack, better than grep&quot;&gt;ack&lt;/a&gt; en una terminal, hasta que descubrí&lt;a href=&quot;http://www.mail-archive.com/gnu-emacs-sources@gnu.org/msg01370/ack.el&quot; title=&quot;ack.el&quot;&gt; ack.el&lt;/a&gt;, de Philip Jackson. El unico problema que tenia era que llamaba a ack en el mismo directorio del archivo que tenias abierto, pero vi un post que me dio una gran idea: &lt;a href=&quot;http://blog.tobiascrawley.net/2010/02/11/emacs-tip-running-ack-in-the-project-root-wrinari/&quot;&gt;usar la funcion rinari-root&lt;/a&gt;, que nos da el directorio de la raiz del proyecto (si tenemos&lt;a href=&quot;http://rinari.rubyforge.org/&quot;&gt; rinari&lt;/a&gt; instalado, claro). Así que cambie la penultima linea en ack.el,&lt;script src=&quot;https://gist.github.com/807988.js?file=gistfile1.sls&quot;&gt;&lt;/script&gt;por:&lt;script src=&quot;https://gist.github.com/807990.js?file=gistfile1.cl&quot;&gt;&lt;/script&gt;Y la verdad es que funciona muy bien. Mis primeros pinitos en lisp, chispas!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Trainido</title>
+    <link href="http://towanda.github.com/2011/01/20/trainido/"/>
+    <updated>2011-01-20T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2011/01/20/trainido</id>
+    <content type="html">&lt;p&gt;Ahora que ya es público, por fin puedo hablar del proyecto en el que he estado trabajando estos últimos meses :):&lt;a href=&quot;http://trainido.com&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2011/01/trainido-logo-300x81.png&quot; title=&quot;trainido&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;Se trata de un &lt;a href=&quot;http://trainido.com&quot; title=&quot;trainido&quot;&gt;entrenador personal on-line&lt;/a&gt;, pero real. Cuando te registras en la aplicación, y te suscribes tienes un entrenador de carne y hueso, que te hará un entrenamiento a tu medida según tus objetivos. Según tus resultados, te irá adaptando el entrenamiento. En mi caso, que tengo al lado un gimnasio municipal, muy barato pero sin entrenadores ni nada parecido me parece una gran solución.Al principio, cuando empezamos con el proyecto, una de las cosas que mas me costaba era meterme en un mundo que no conocía de nada, (lo que se llama conocer el dominio de la aplicación), me he aprendido nombres de músculos de los que no había oido hablar en mi vida, he confundido los &lt;a href=&quot;http://www.youtube.com/trainido#p/a/u/2/F1kJSIqzgXI&quot;&gt;abductores&lt;/a&gt; con los &lt;a href=&quot;http://www.youtube.com/trainido#p/u/52/tD2lszQXGEE&quot;&gt;adductores&lt;/a&gt;, y he visto como se prepara un entrenamiento.A nivel técnico, hemos usado rails 3, devise, rspec2 y steak (cada vez me gusta mas) con mysql y redis. Me ha gustado mucho usar redis para guardar todos los parametros de un entrenamiento (series, peso, pausas, etc), aunque podria haberlo hecho con mysql, me resulta mucho mas claro y sencillo poder trabajar con hashes y listas directamente.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Complex and inteligent behavior</title>
+    <link href="http://towanda.github.com/2010/12/13/complex-and-inteligent-behavior/"/>
+    <updated>2010-12-13T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2010/12/13/complex-and-inteligent-behavior</id>
+    <content type="html">&lt;blockquote&gt;Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior&lt;/blockquote&gt;
+
+
+&lt;p&gt;Dee Hock, founder of Visa.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Los formularios de registro deben morir.</title>
+    <link href="http://towanda.github.com/2010/10/16/los-formularios-de-registro-deben-morir/"/>
+    <updated>2010-10-16T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2010/10/16/los-formularios-de-registro-deben-morir</id>
+    <content type="html">&lt;p&gt;En la mayoria de las aplicaciones web el primer paso es rellenar un formulario de registro. &lt;a href=&quot;http://www.lukew.com/about/index.asp&quot; title=&quot;Luke Wroblewski&quot;&gt;Luke Wroblewski&lt;/a&gt;, el autor de &lt;a href=&quot;http://www.lukew.com/resources/web_form_design.asp&quot; title=&quot;Web form design&quot;&gt;web form design: Filling in the blanks&lt;/a&gt;, nos habla de tres alternativas al registro habitual:- Servicios web (login a traves de facebook, por ejemplo)
+- Herramientas de comunicación: (como el email en caso de &lt;a href=&quot;https://posterous.com/&quot; title=&quot;posterous&quot;&gt;posteuros&lt;/a&gt;, donde puedes crear y gestionar tu propio blog mediante tu cliente de email y sin registro)
+- Gradual engagement (lo traduciria por algo asi como implicación gradual, o relación gradual)
+El pdf y el video de la charla, mas que recomentable:  &lt;a href=&quot;http://www.lukew.com/presos/preso.asp?25&quot; title=&quot;Sign Up Forms Must Die!&quot;&gt;Sign Up Form Must Die!&lt;/a&gt;(originalmente escrito en el &lt;a href=&quot;http://gotfeeling.com/blog&quot;&gt;blog de GotFeeling?&lt;/a&gt;)&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Benoit Mandelbrot, RIP</title>
+    <link href="http://towanda.github.com/2010/10/16/benoit-mandelbrot-rip/"/>
+    <updated>2010-10-16T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2010/10/16/benoit-mandelbrot-rip</id>
+    <content type="html">&lt;p&gt;Ha muerto &lt;a href=&quot;http://es.wikipedia.org/wiki/Benoît_Mandelbrot&quot; title=&quot;Mandelbrot&quot;&gt;Mandelbrot&lt;/a&gt;, el padre de la geometría fractal. Aunque ningún medio ha dado la noticia, ha circulado a través del &lt;a href=&quot;http://kottke.org/10/10/benoit-mandelbrot-rip&quot;&gt;twitterde un colega suyo&lt;/a&gt;.&lt;!&#8211;copy and paste&#8211;&gt;&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot; /&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/dynamic/BenoitMandelbrot_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BenoitMandelbrot-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=909&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=benoit_mandelbrot_fractals_the_art_of_roughness;year=2010;theme=numbers_at_play;event=TED2010;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgcolor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; flashvars=&quot;vu=http://video.ted.com/talks/dynamic/BenoitMandelbrot_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BenoitMandelbrot-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=909&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=benoit_mandelbrot_fractals_the_art_of_roughness;year=2010;theme=numbers_at_play;event=TED2010;&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>La documentación no tiene por que ser aburrida</title>
+    <link href="http://towanda.github.com/2010/09/02/la-documentacion-no-tiene-por-que-ser-aburrida/"/>
+    <updated>2010-09-02T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2010/09/02/la-documentacion-no-tiene-por-que-ser-aburrida</id>
+    <content type="html">&lt;blockquote&gt;a ØMQ socket is what you get when you take a normal TCP socket, inject it with a mix of radioactive isotopes stolen from a secret Soviet atomic research project, bombard it with 1950-era cosmic rays, and put it into the hands of a drug-addled comic book author with a badly-disguised fetish for bulging muscles clad in spandex.&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://invisibles.cc/wp-content/uploads/2010/09/fig1.png&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2010/09/fig1.png&quot; title=&quot;fig1&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;De la documentación de &lt;a href=&quot;http://www.zeromq.org/&quot; title=&quot;zeromq&quot;&gt;zeromq&lt;/a&gt;, el sistema de mensajes que usa &lt;a href=&quot;http://mongrel2.org&quot; title=&quot;mongrel2&quot;&gt;mongrel2&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>John Underkoffler: El futuro de la interfaz de usuario</title>
+    <link href="http://towanda.github.com/2010/07/25/john-underkoffler-el-futuro-de-la-interfaz-de-usuario/"/>
+    <updated>2010-07-25T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2010/07/25/john-underkoffler-el-futuro-de-la-interfaz-de-usuario</id>
+    <content type="html">&lt;object width=&quot;500&quot; height=&quot;281&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=2229299&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=2229299&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;500&quot; height=&quot;281&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+
+
+&lt;p&gt;John Underkoffler fue el consejero cientifico de Minority Report, y es el creador de g-speak, la implementación real de la impresionante interfaz de la película. En el primer video se puede ver g-speak en plan demo, en el segundo John cuenta en TED como funciona esta tecnologia y como espera que esté disponible en todos los ordenadores en unos cinco años. &lt;!&#8211;copy and paste&#8211;&gt;&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot; /&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/dynamic/JohnUnderkoffler_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JohnUnderkoffler-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=872&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=john_underkoffler_drive_3d_data_with_a_gesture;year=2010;theme=a_taste_of_ted2010;theme=what_s_next_in_tech;theme=tales_of_invention;theme=presentation_innovation;theme=new_on_ted_com;theme=technology_history_and_destiny;event=TED2010;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgcolor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; flashvars=&quot;vu=http://video.ted.com/talks/dynamic/JohnUnderkoffler_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JohnUnderkoffler-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=872&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=john_underkoffler_drive_3d_data_with_a_gesture;year=2010;theme=a_taste_of_ted2010;theme=what_s_next_in_tech;theme=tales_of_invention;theme=presentation_innovation;theme=new_on_ted_com;theme=technology_history_and_destiny;event=TED2010;&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>We build castles in the air, from air&#8230;</title>
+    <link href="http://towanda.github.com/2010/06/23/we-build-castles-in-the-air-from-air/"/>
+    <updated>2010-06-23T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2010/06/23/we-build-castles-in-the-air-from-air</id>
+    <content type="html">&lt;p&gt;Una de las citas que mas me gustan para explicar como funciona el desarrollo de software de &lt;a href=&quot;http://es.wikipedia.org/wiki/Frederick_Brooks&quot; title=&quot;Frederik Brooks&quot;&gt;Frederick Brooks&lt;/a&gt;:&lt;blockquote&gt;&amp;#8220;The programmer, like the poet, works only slightly removed from pure thought-stuff.&amp;#8221;He builds castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.&amp;#8221;Yet the program construct, unlike the poet&amp;#8217;s words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. It prints results, draws pictures, produces sounds, moves arms.&amp;#8221;The magic of myth and legend has come true in our time. One types the correct incantation on a keyboard, and a display screen comes to life, showing things that never were nor could be. &amp;#8230;&amp;#8221;The computer resembles the magic of legend in this respect, too. If one character, one pause, of the incantation is not strictly in proper form, the magic doesn&amp;#8217;t work. Human beings are not accustomed to being perfect, an few areas of human activity demand it.&amp;#8221;Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.&amp;#8221;&lt;/blockquote&gt;&lt;em&gt;From &lt;/em&gt;&lt;cite&gt;The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition&lt;/cite&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>the way you think</title>
+    <link href="http://towanda.github.com/2010/02/27/the-way-you-think/"/>
+    <updated>2010-02-27T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2010/02/27/the-way-you-think</id>
+    <content type="html">&lt;blockquote&gt;A language that doesn’t affect the way you think about programming is not worth knowing — Alan Perlis&lt;/blockquote&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Balsamiq Mockups</title>
+    <link href="http://towanda.github.com/2009/11/22/balsamiq-mockups/"/>
+    <updated>2009-11-22T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2009/11/22/balsamiq-mockups</id>
+    <content type="html">&lt;p&gt;Una de las partes mas complejas de desarrollar una aplicación es la comunicación entre las distintas personas involucradas. Es fácil que se creen malentendidos, que en ocasiones pueden generar mucha frustración, y una gran perdida de tiempo malgastando esfuerzos en la dirección equivocada. Creo que siempre ayuda mucho más hacer bocetos o cualquier otro tipo de gráfico para representar lo que se quiere, que una lista de cosas que se pueden entender de muchas formas.[caption id=&amp;#8221;attachment_239&amp;#8221; align=&amp;#8221;aligncenter&amp;#8221; width=&amp;#8221;460&amp;#8221; caption=&amp;#8221;Illusion of agreement&amp;#8221;]&lt;a href=&quot;http://37signals.com/svn/archives2/illusion_of_agreement.php&quot;&gt;&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2009/11/illusion-small1.gif&quot; title=&quot;Illusion of agreement&quot; alt=&quot;Illusion of agreement&quot; /&gt;&lt;/a&gt;[/caption]Y una aplicación que me encanta, para poder hacer muy rápidamente bocetos de las pantallas de tu aplicación, es &lt;a href=&quot;http://www.balsamiq.com/products/mockups&quot; title=&quot;Balsamiq mockups&quot;&gt;Balsamiq Mockups&lt;/a&gt;. A pesar de estar hecha en AIR (el aspecto de estas aplicaciones no me suele gustar) es muy bonita, y realmente sencilla. Una prueba definitiva de lo sencilla que es es que se puede empezar a usar sin tener que usar la documentación. Solo tuve que consultarla para ver como enlazar dos mocks entre si, que aun así es muy fácil. Es mucho más rápido (al menos para mi) hacer bocetos de las pantallas con Balsamiq Mockups que dibujarlos a mano. Además tiene un modo presentación a pantalla completa.Pero lo que realmente triunfaría sería poder editar y compartir mockups de forma remota, no se si mediante una interfaz web o algo parecido. Eso es lo que mas echo de menos para poder trabajar de forma colaborativa a distancia.  No me gusta que sea software privativo, pero no conozco otra alternativa libre. Y aunque la licencia vale unos 79$, si escribes una revisión en tu blog te dan una licencia gratis :-DAqui podeis ver un pantallazo sobre un mockup de la aplicación en la que estoy trabajando ahora:&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2009/11/facturagem_mockups.gif&quot; title=&quot;facturagem_mockups&quot; alt=&quot;facturagem_mockups&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Conferencia Rails 2009</title>
+    <link href="http://towanda.github.com/2009/11/15/conferencia-rails-2009/"/>
+    <updated>2009-11-15T00:00:00+01:00</updated>
+    <id>http://towanda.github.com/2009/11/15/conferencia-rails-2009</id>
+    <content type="html">&lt;p&gt;[caption id=&amp;#8221;attachment_227&amp;#8221; align=&amp;#8221;aligncenter&amp;#8221; width=&amp;#8221;270&amp;#8221; caption=&amp;#8221;conferencia rails&amp;#8221;]&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2009/11/logo.png&quot; title=&quot;conferencia rails 2009&quot; alt=&quot;logo conferencia rails&quot; /&gt;[/caption]Este año la conferencia rails promete, además de haber un día mas para talleres prácticos, vendrá gente como: Nathaniel Talbott, David A. Black, Yehuda Katz, Obie Fernandez y Scott Chacon.Desde hace algún tiempo tengo curiosidad hacia otras &lt;a href=&quot;http://en.wikipedia.org/wiki/NoSQL&quot; title=&quot;noSql&quot;&gt;alternativas a las bases de datos relacionales&lt;/a&gt;,  asi que voy a ir con muchas ganas a la charla sobre&lt;a href=&quot;http://app.conferenciarails.org/talks/43-key-value-stores-conviertete-en-un-jedi-master&quot; title=&quot;key value stores&quot;&gt; key value stores&lt;/a&gt; y a la de &lt;a href=&quot;http://app.conferenciarails.org/talks/42-cassandra-db-que-tienen-facebook-twitter-y-digg-en-comun&quot; title=&quot;casandra DB&quot;&gt;casandra DB&lt;/a&gt;.Tampoco pienso perderme dos charlas que hablarán sobre el concepto de desarrollador,  &lt;a href=&quot;http://app.conferenciarails.org/talks/37-el-desarrollador-total&quot; title=&quot;El desarrollador total&quot;&gt;el desarrollador total&lt;/a&gt; y la &lt;a href=&quot;http://app.conferenciarails.org/talks/17-la-herramienta-de-desarrollo-definitiva&quot;&gt;herramienta de desarrollo defintiva&lt;/a&gt; ,  ni tampoco la de &lt;a href=&quot;http://app.conferenciarails.org/talks/47-charla-o-taller-alternativas-a-rails-para-sitios-y-servicios-web-ultraligeros&quot; title=&quot;alternativas ligeras a rails&quot;&gt;alternativas ligeras a rails&lt;/a&gt;.Nos vemos allí :)&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>La idea.</title>
+    <link href="http://towanda.github.com/2009/10/09/la-idea/"/>
+    <updated>2009-10-09T00:00:00+02:00</updated>
+    <id>http://towanda.github.com/2009/10/09/la-idea</id>
+    <content type="html">&lt;blockquote&gt;La idea, por su naturaleza misma, necesita ser comunicada: escrita,explicada, realizada. Como la hierba, la idea busca la luz, ama lasmultitudes, las cruzas la enriqueces, crece más vigorosa cuando se la pisa.&lt;/blockquote&gt;
+
+
+&lt;p&gt;Ursula K. LeGuin, &amp;#8221;&lt;a href=&quot;http://blog.sindominio.net/blog/hiro_protagonist/libros/2005/11/30/los_desposeidos&quot;&gt;Los desposeído&lt;/a&gt;s&amp;#8221;&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
