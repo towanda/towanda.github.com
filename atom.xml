@@ -4,7 +4,7 @@
   <title>(in)visibles</title>
   <link href="http://towanda.github.com/atom.xml" rel="self"/>
   <link href="http://towanda.github.com/"/>
-  <updated>2011-10-22T22:23:19+02:00</updated>
+  <updated>2011-10-22T22:30:43+02:00</updated>
   <id>http://towanda.github.com/</id>
   <author>
     <name>Manu Campos</name>
@@ -98,9 +98,9 @@ And then there’s an illustration to piece all the pieces together and explain 
   
   <entry>
     <title>why work doesn&#8217;t happen at work</title>
-    <link href="http://towanda.github.com/2011/02/04/why-work-doesn%25c2%25b4t-happen-at-work/"/>
+    <link href="http://towanda.github.com/2011/02/04/why-work-doesn%C2%B4t-happen-at-work/"/>
     <updated>2011-02-04T00:00:00+01:00</updated>
-    <id>http://towanda.github.com/2011/02/04/why-work-doesn%c2%b4t-happen-at-work</id>
+    <id>http://towanda.github.com/2011/02/04/why-work-doesn´t-happen-at-work</id>
     <content type="html">&lt;p&gt;Jason Fried, co-fundador de &lt;a href=&quot;http://37signals.com/&quot;&gt;37Signals&lt;/a&gt; explica por que la oficina no es un buen lugar para trabajar.&lt;!&#8211;copy and paste&#8211;&gt;&lt;object width=&quot;446&quot; height=&quot;326&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;bgColor&quot; value=&quot;#ffffff&quot; /&gt; &lt;param name=&quot;flashvars&quot; value=&quot;vu=http://video.ted.com/talks/dynamic/JasonFried_2010X-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JasonFried-2010X.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1014&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=jason_fried_why_work_doesn_t_happen_at_work;year=2010;theme=a_taste_of_tedx;theme=not_business_as_usual;theme=new_on_ted_com;event=TEDxMidwest;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;&quot; /&gt;&lt;embed src=&quot;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&quot; pluginspace=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; bgcolor=&quot;#ffffff&quot; width=&quot;446&quot; height=&quot;326&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; flashvars=&quot;vu=http://video.ted.com/talks/dynamic/JasonFried_2010X-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JasonFried-2010X.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1014&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=jason_fried_why_work_doesn_t_happen_at_work;year=2010;theme=a_taste_of_tedx;theme=not_business_as_usual;theme=new_on_ted_com;event=TEDxMidwest;&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
 </content>
   </entry>
