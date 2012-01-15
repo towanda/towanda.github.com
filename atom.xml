@@ -4,13 +4,22 @@
   <title>(in)visibles</title>
   <link href="http://towanda.github.com/atom.xml" rel="self"/>
   <link href="http://towanda.github.com/"/>
-  <updated>2012-01-12T23:09:57+01:00</updated>
+  <updated>2012-01-15T23:06:44+01:00</updated>
   <id>http://towanda.github.com/</id>
   <author>
     <name>Manu Campos</name>
     
   </author>
 
+  
+  <entry>
+    <title>Prueba</title>
+    <link href="http://towanda.github.com/2012/01/15/prueba/"/>
+    <updated>2012-01-15T23:05:00+01:00</updated>
+    <id>http://towanda.github.com/2012/01/15/prueba</id>
+    <content type="html">&lt;p&gt;No leer, prueba.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Matt Mullenweg: State of the Word 2011</title>
@@ -217,18 +226,6 @@ El pdf y el video de la charla, mas que recomentable:  &lt;a href=&quot;http://
     <updated>2009-11-15T00:00:00+01:00</updated>
     <id>http://towanda.github.com/2009/11/15/conferencia-rails-2009</id>
     <content type="html">&lt;p&gt;[caption id=&amp;#8221;attachment_227&amp;#8221; align=&amp;#8221;aligncenter&amp;#8221; width=&amp;#8221;270&amp;#8221; caption=&amp;#8221;conferencia rails&amp;#8221;]&lt;img src=&quot;http://invisibles.cc/wp-content/uploads/2009/11/logo.png&quot; title=&quot;conferencia rails 2009&quot; alt=&quot;logo conferencia rails&quot; /&gt;[/caption]Este año la conferencia rails promete, además de haber un día mas para talleres prácticos, vendrá gente como: Nathaniel Talbott, David A. Black, Yehuda Katz, Obie Fernandez y Scott Chacon.Desde hace algún tiempo tengo curiosidad hacia otras &lt;a href=&quot;http://en.wikipedia.org/wiki/NoSQL&quot; title=&quot;noSql&quot;&gt;alternativas a las bases de datos relacionales&lt;/a&gt;,  asi que voy a ir con muchas ganas a la charla sobre&lt;a href=&quot;http://app.conferenciarails.org/talks/43-key-value-stores-conviertete-en-un-jedi-master&quot; title=&quot;key value stores&quot;&gt; key value stores&lt;/a&gt; y a la de &lt;a href=&quot;http://app.conferenciarails.org/talks/42-cassandra-db-que-tienen-facebook-twitter-y-digg-en-comun&quot; title=&quot;casandra DB&quot;&gt;casandra DB&lt;/a&gt;.Tampoco pienso perderme dos charlas que hablarán sobre el concepto de desarrollador,  &lt;a href=&quot;http://app.conferenciarails.org/talks/37-el-desarrollador-total&quot; title=&quot;El desarrollador total&quot;&gt;el desarrollador total&lt;/a&gt; y la &lt;a href=&quot;http://app.conferenciarails.org/talks/17-la-herramienta-de-desarrollo-definitiva&quot;&gt;herramienta de desarrollo defintiva&lt;/a&gt; ,  ni tampoco la de &lt;a href=&quot;http://app.conferenciarails.org/talks/47-charla-o-taller-alternativas-a-rails-para-sitios-y-servicios-web-ultraligeros&quot; title=&quot;alternativas ligeras a rails&quot;&gt;alternativas ligeras a rails&lt;/a&gt;.Nos vemos allí :)&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>La idea.</title>
-    <link href="http://towanda.github.com/2009/10/09/la-idea/"/>
-    <updated>2009-10-09T00:00:00+02:00</updated>
-    <id>http://towanda.github.com/2009/10/09/la-idea</id>
-    <content type="html">&lt;blockquote&gt;La idea, por su naturaleza misma, necesita ser comunicada: escrita,explicada, realizada. Como la hierba, la idea busca la luz, ama lasmultitudes, las cruzas la enriqueces, crece más vigorosa cuando se la pisa.&lt;/blockquote&gt;
-
-
-&lt;p&gt;Ursula K. LeGuin, &amp;#8221;&lt;a href=&quot;http://blog.sindominio.net/blog/hiro_protagonist/libros/2005/11/30/los_desposeidos&quot;&gt;Los desposeído&lt;/a&gt;s&amp;#8221;&lt;/p&gt;
 </content>
   </entry>
   
