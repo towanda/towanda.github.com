@@ -9,7 +9,7 @@
   <meta name="author" content="Manu Campos">
 
   
-  <meta name="description" content="Visto en la lista de correo de rspec, via Alex:&#8220;Programming today is a race between software engineersstriving to build bigger and better idi...">
+  <meta name="description" content="Hace poco tuve que hacer algunas pruebas para ver como leer documentos excel desde ruby, y descubrí que gracias a la gema spreadsheet es realmente ...">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -60,6 +60,42 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2009/05/12/excel-desde-ruby/">Excel Desde Ruby</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+  
+
+
+
+<time datetime="2009-05-12T00:00:00+02:00" pubdate  data-updated="true" >May 12<span>th</span>, 2009</time>
+        
+         | <a href="/2009/05/12/excel-desde-ruby/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Hace poco tuve que hacer algunas pruebas para ver como leer documentos excel desde ruby, y descubrí que gracias a la gema <a href="http://rubyforge.org/projects/spreadsheet/" title="spreadsheet ">spreadsheet</a> es realmente fácil.<code>require 'spreadsheet'book = Spreadsheet.open '/path/to/an/fichero.xls'# Para acceder a las páginas:book.worksheets# Para acceder a una página en concretosheet1 = book.worksheet 0sheet2 = book.worksheet 'Sheet1'sheet1.each do |row|  # hacemos algo con cada fila.end# También podemos acceder directamente a una filarow = sheet1.row(3)# Y para acceder a un elemento de una fila:row[0]</code>Aunque no he probado a escribir en un excel, parece también muy sencillo.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -394,44 +430,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2008/06/10/logos-de-marcas-tecnologicas/">La Evolución De Los Logos De Marcas Técnologicas.</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-  
-
-
-
-<time datetime="2008-06-10T00:00:00+02:00" pubdate  data-updated="true" >Jun 10<span>th</span>, 2008</time>
-        
-         | <a href="/2008/06/10/logos-de-marcas-tecnologicas/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src="http://invisibles.cc/wp-images/logo-apple.gif" alt="Evolución del logo de Canon" /></p>
-
-<p>Me ha encantado este post sobre la <a href="http://www.neatorama.com/2008/02/07/the-evolution-of-tech-companies-logos/" title="Evolución logos marcas tecnologicas">evolución de los logos de las marcas tecnológicas</a>. No me habria imaginado nunca que el logo original de apple fuera un grabado de Isaac Newton bajo un arbol con una manzana.</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <nav class="pagination">
     <div>
       
@@ -452,6 +450,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2012/02/11/eli-pariser-cuidado-con-la-burbuja-de-filtros-en-la-red/">Eli Pariser: Cuidado Con La &#8216;Burbuja De Filtros&#8217; en La Red</a>
+      </li>
+    
+      <li class="post">
         <a href="/2012/02/05/ruby-no-es-facil/">Ruby no es fácil</a>
       </li>
     
@@ -465,10 +467,6 @@
     
       <li class="post">
         <a href="/2011/06/22/the-only-people-for-me/">The only people for me</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2011/06/18/the-passionate-programmer/">The Passionate Programmer</a>
       </li>
     
   </ul>
